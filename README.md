@@ -7,13 +7,14 @@ Presentation Date: 3/6/2024
 - Brief overview on GIS theory
 - **Break**
 - Overview of ArcGIS Online
+  - [Instant Apps Gallery](https://doc.arcgis.com/en/instant-apps/gallery/)
+  - [Dashboards Gallery](https://doc.arcgis.com/en/dashboards/gallery/)
+  - [StoryMaps Gallery](https://doc.arcgis.com/en/arcgis-storymaps/gallery/?)
+
 - **Break**
 - Hands-On Session
-
-## Important Links
-
-- [BU CAS ArcGIS Online Portal](https://bucas.maps.arcgis.com/home/index.html)
-- [Hands-on Workshop: Getting Started with ArcGIS Online](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
+  - [BU CAS ArcGIS Online Portal](https://bucas.maps.arcgis.com/home/index.html)
+  - [Hands-on Workshop: Getting Started with ArcGIS Online](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
 
 ## Additional Resources
 
