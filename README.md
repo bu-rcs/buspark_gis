@@ -2,6 +2,8 @@
 
 Presentation Date: 3/6/2024
 
+[Tutorial Google Doc](https://docs.google.com/document/d/1nCjbHvS_XEBnHQXRgOl_5ngZhD8VTG2b-Kol6Hzzm4c/edit?usp=sharing)
+
 ## Schedule
 
 - Brief overview on GIS theory
